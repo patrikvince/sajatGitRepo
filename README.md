@@ -1,1 +1,2 @@
-# sajatGitRepo
+# sajatGHubRepo
+Specifikáció megírása, több sorban
